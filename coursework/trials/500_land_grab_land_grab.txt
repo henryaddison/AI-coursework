@@ -1,0 +1,10 @@
+Player 1 Strategy: land_grab
+Player 2 Strategy: land_grab
+Number of games: 500
+Number of draws: 11
+Number of wins for player 1 (blue): 263
+Number of wins for player 2 (red): 226
+Longest (non-exhaustive) game: 112
+Shortest game: 3
+Average game length (including exhaustives): 21.024
+Average game time (ms): 2699.62

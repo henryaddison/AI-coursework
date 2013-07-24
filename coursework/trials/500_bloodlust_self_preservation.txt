@@ -1,0 +1,10 @@
+Player 1 Strategy: bloodlust
+Player 2 Strategy: self_preservation
+Number of games: 500
+Number of draws: 20
+Number of wins for player 1 (blue): 269
+Number of wins for player 2 (red): 211
+Longest (non-exhaustive) game: 41
+Shortest game: 2
+Average game length (including exhaustives): 10.896
+Average game time (ms): 893.1

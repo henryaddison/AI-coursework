@@ -1,0 +1,10 @@
+Player 1 Strategy: random
+Player 2 Strategy: bloodlust
+Number of games: 500
+Number of draws: 34
+Number of wins for player 1 (blue): 89
+Number of wins for player 2 (red): 377
+Longest (non-exhaustive) game: 25
+Shortest game: 2
+Average game length (including exhaustives): 7.124
+Average game time (ms): 333.74

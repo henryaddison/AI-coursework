@@ -1,0 +1,10 @@
+Player 1 Strategy: self_preservation
+Player 2 Strategy: minimax
+Number of games: 500
+Number of draws: 2
+Number of wins for player 1 (blue): 14
+Number of wins for player 2 (red): 484
+Longest (non-exhaustive) game: 78
+Shortest game: 3
+Average game length (including exhaustives): 19.588
+Average game time (ms): 31045.3

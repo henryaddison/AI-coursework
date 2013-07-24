@@ -1,0 +1,10 @@
+Player 1 Strategy: minimax
+Player 2 Strategy: minimax
+Number of games: 1
+Number of draws: 0
+Number of wins for player 1 (blue): 1
+Number of wins for player 2 (red): 0
+Longest (non-exhaustive) game: 102
+Shortest game: 102
+Average game length (including exhaustives): 102.0
+Average game time (ms): 464540.0

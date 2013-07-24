@@ -1,0 +1,10 @@
+Player 1 Strategy: land_grab
+Player 2 Strategy: bloodlust
+Number of games: 500
+Number of draws: 28
+Number of wins for player 1 (blue): 336
+Number of wins for player 2 (red): 136
+Longest (non-exhaustive) game: 54
+Shortest game: 2
+Average game length (including exhaustives): 10.1
+Average game time (ms): 1044.8

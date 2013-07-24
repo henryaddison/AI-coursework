@@ -1,0 +1,10 @@
+Player 1 Strategy: random
+Player 2 Strategy: random
+Number of games: 500
+Number of draws: 23
+Number of wins for player 1 (blue): 236
+Number of wins for player 2 (red): 241
+Longest (non-exhaustive) game: 42
+Shortest game: 2
+Average game length (including exhaustives): 11.392
+Average game time (ms): 29.94

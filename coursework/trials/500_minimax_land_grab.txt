@@ -1,0 +1,10 @@
+Player 1 Strategy: minimax
+Player 2 Strategy: land_grab
+Number of games: 500
+Number of draws: 4
+Number of wins for player 1 (blue): 481
+Number of wins for player 2 (red): 15
+Longest (non-exhaustive) game: 104
+Shortest game: 2
+Average game length (including exhaustives): 17.786
+Average game time (ms): 33382.7
